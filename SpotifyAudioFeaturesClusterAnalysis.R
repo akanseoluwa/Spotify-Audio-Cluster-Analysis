@@ -16,7 +16,7 @@
 # - External Validation : - Rand Index
 
 
-#Reading Spotify Songs data
+# Reading Spotify Songs data
 spotify = read.csv("data_spotify_songs.csv")
 
 #Viewing first parts of the dataset
